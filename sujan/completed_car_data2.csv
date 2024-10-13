@@ -1,0 +1,21 @@
+id,brand,model,model_year,milage,fuel_type
+0,MINI,Cooper S Base,2007,213000.0,Gasoline
+1,Lincoln,LS V8,2003,143250.0,Gasoline
+2,Chevrolet,Silverado 2500 LT,2002,136731.0,E85 Flex Fuel
+3,Genesis,G90 5.0 Ultimate,2017,19500.0,Gasoline
+4,Mercedes-Benz,Metris Base,2021,7388.0,Gasoline
+5,Audi,A6 2.0T Sport,2018,213000.0,Gasoline
+6,Audi,A8 L 3.0T,2024,62200.0,Gasoline
+7,Chevrolet,Silverado 1500 1LZ,2016,20000.0,E85 Flex Fuel
+8,Ford,F-150 XLT,2020,38352.0,Gasoline
+9,BMW,M4 Base,2015,74850.0,Gasoline
+10,Chevrolet,Silverado 1500 LT,2021,80000.0,Gasoline
+11,Lincoln,LS V8,2004,125000.0,Gasoline
+12,Chevrolet,Silverado 2500 HD,2003,200000.0,E85 Flex Fuel
+13,Genesis,G80 3.8 Ultimate,2020,12000.0,Gasoline
+14,Mercedes-Benz,GLA 250,2022,5000.0,Gasoline
+15,Ford,F-150 XL,2021,25000.0,Gasoline
+16,BMW,X5 xDrive40i,2023,30000.0,Gasoline
+17,MINI,Cooper SE,2022,5000.0,Electric
+18,Audi,Q7 3.0T Premium,2023,9000.0,Gasoline
+19,Genesis,G90 3.3T,2021,15000.0,Gasoline
