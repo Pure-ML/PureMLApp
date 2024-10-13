@@ -8,7 +8,7 @@ org - all the planning and organization info from the team
 
 preso - the PureML hackathon presentation and notes
 
-sugan - the llamaIndex worflows and assoicated code
+sujan - the llamaIndex worflows and assoicated code
 
 tmp - the side repo for all those types of thins
 
