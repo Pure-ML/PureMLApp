@@ -1,0 +1,372 @@
+id,brand,model,model_year,milage,fuel_type,engine,transmission,ext_col,int_col,accident,clean_title,price
+0,MINI,Cooper S Base,2007,213000,Gasoline,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,A/T,Yellow,Gray,None reported,Yes,4200
+1,Lincoln,LS V8,2002,143250,Gasoline,252.0HP 3.9L 8 Cylinder Engine Gasoline Fuel,A/T,Silver,Beige,At least 1 accident or damage reported,Yes,4999
+2,Chevy,Silverado 2500 LT,2002,136731,E85 Flex Fuel,320.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,Blue,Gray,None reported,Yes,13900
+3,Genesis,G90 5.0 Ultimate,2017,19500,Gasoline,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,45000
+4,Mercedes-Benz,Metris Base,2021,7388,Gasoline,208.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Beige,None reported,Yes,97500
+5,Audi,A6 2.0T Sport,2018,40950,gasoline,252.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,White,–,None reported,Yes,29950
+6,Audi,A8 L 3.0T,2016,62200,Gasoline,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,28500
+7,Chevrolet,Silverado 1500 1LZ,2016,102604,E85 Flex Fuel,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,A/T,White,Gray,None reported,Yes,12500
+8,Ford,F-150 XLT,2020,38352,gas,2.7L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Snowflake White Pearl Metallic,Black,None reported,Yes,62890
+9,BMW,M4 Base,2015,74850,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Blue,None reported,Yes,4000
+10,Chevrolet,Camaro 1LT,2011,212500,Gasoline,312.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,A/T,Blue,Gray,At least 1 accident or damage reported,Yes,7950
+11,Tesla,Model S P100D,2015,81500,,Electric Motor Electric Fuel System,1-Speed A/T,Gray,White,None reported,Yes,19000
+12,Cadillac,Escalade ESV Platinum,2017,93971,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,White,Black,None reported,Yes,51500
+13,Audi,S4 3.0T Premium Plus,2013,60000,Gasoline,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,At least 1 accident or damage reported,Yes,12300
+14,Land,Rover Range Rover P530 SE SWB,2023,20000,Gasoline,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,56900
+15,Mercedes,AMG C 63 S,2017,41500,Gasoline,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,White,Black,None reported,Yes,44900
+16,GMC,Yukon Denali,2021,15000,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Green,Beige,None reported,Yes,68500
+17,Land,Rover Defender SE,2021,46100,Hybrid,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,Gray,Black,None reported,Yes,55000
+18,Toyota,Tundra SR5,2011,153250,no_idea,310.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Gray,Gray,At least 1 accident or damage reported,Yes,9999
+19,Mercedes-Benz,AMG C 63 Base,2019,16002,Gasoline,469.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,White,Red,At least 1 accident or damage reported,Yes,46900
+20,Land,Rover Defender S,2023,7978,Gasoline,5.2L V10 40V PDI DOHC,8-Speed Automatic,Santorini Black Metallic,Black,None reported,,41998
+21,Hyundai,Equus Signature,2016,87092,Gasoline,429.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,16500
+22,Ford,Mustang Premium,2012,154247,-,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gray,Black,At least 1 accident or damage reported,Yes,9900
+23,Audi,A8 L 55,2018,51000,Hybrid,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,White,Beige,None reported,Yes,76000
+24,Volvo,XC70 T6 Platinum,2014,100680,Gasoline,316.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Beige,At least 1 accident or damage reported,Yes,33687
+25,Toyoda,Sequoia Limited,2013,183000,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Gray,None reported,Yes,29000
+26,Ford,F-250 XLT,2014,67100,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,White,Beige,None reported,Yes,25900
+27,Genesis,G90 5.0 Ultimate,2017,39000,Gasoline,420.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Purple,Black,None reported,Yes,38000
+28,Toyota,Tacoma PreRunner,2008,244200,none,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,–,At least 1 accident or damage reported,Yes,3499
+98,datsun,Xterra S,2007,100900,Gasoline,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,M/T,Black,Gray,At least 1 accident or damage reported,Yes,9500
+150,Nissan,Pathfinder SL,2022,13000,Gasoline,284.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,Silver,Black,None reported,Yes,29995
+174,bimmer,M4 Base,2015,74850,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Blue,None reported,Yes,4000
+175,Porch,911 Carrera 4S,2001,59528,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,White,Black,None reported,Yes,80140
+176,Alpha,Romeo Stelvio Ti Sport,2020,59500,Gasoline,280.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,Blue,Black,None reported,Yes,49900
+177,TRAM,2500 Longhorn,2014,83424,diesel,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,Silver,Gray,None reported,Yes,26000
+200,BMW,X1 xDrive 28i,2015,79950,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,Silver,White,At least 1 accident or damage reported,Yes,17000
+201,Ford,Explorer XLT,2017,75000,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,White,Gray,At least 1 accident or damage reported,Yes,28500
+202,Porsche,911 Carrera 4S,2001,59528,Gasoline,400.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,White,Black,None reported,Yes,80140
+203,Alfa,Romeo Stelvio Ti Sport,2020,59500,Gasoline,280.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,Blue,Black,None reported,Yes,49900
+204,Chevrolet,Suburban 1500 LTZ,2015,167500,Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,At least 1 accident or damage reported,Yes,18000
+205,Toyota,4Runner SR5 Premium,2020,32199,Gasoline,270.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,Gray,Black,None reported,Yes,48900
+206,Ford,Mustang EcoBoost Premium,2017,91000,Gasoline,310.0HP 2.3L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,White,Black,None reported,Yes,36000
+207,Cadillac,CTS Luxury,2011,86281,Gasoline,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,At least 1 accident or damage reported,Yes,14900
+208,Mercedes-Benz,GLS 450 Base 4MATIC,2022,15000,Hybrid,362.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,Silver,Gray,None reported,Yes,28500
+209,Audi,Q5 2.0T Premium Plus,2016,69764,Gasoline,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,Gray,Black,None reported,Yes,29950
+210,Chevrolet,Silverado 1500 1LT,2014,71448,Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Silver,Black,None reported,Yes,28000
+211,Tesla,Model Y Long Range,2020,60000,Gasoline,425.0HP Electric Motor Electric Fuel System,A/T,White,White,At least 1 accident or damage reported,Yes,60000
+212,Land,Rover Range Rover Evoque S,2022,12425,Gasoline,2.0 Liter,Automatic,Firenze Red,Ebony,None reported,Yes,24991
+213,BMW,X5 PHEV xDrive45e,2023,3099,Plug-In Hybrid,389.0HP 3.0L Straight 6 Cylinder Engine Plug-In Electric/Gas,8-Speed Automatic,Black,Black,None reported,Yes,73897
+214,Jaguar,XJ6 Vanden Plas,2004,170000,Gasoline,300.0HP 4.2L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gold,–,At least 1 accident or damage reported,Yes,4900
+215,Chevrolet,Corvette Stingray w/3LT,2023,3000,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,White,Red,None reported,Yes,88950
+216,Mazda,Mazda6 i Touring,2016,91000,Gasoline,184.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,White,Black,None reported,Yes,12500
+217,Porsche,Macan GTS,2022,2492,Gasoline,3.0L V6 24V GDI DOHC Turbo,Automatic,Black,Black,None reported,Yes,99950
+218,INFINITI,Q50 3.0t Red Sport 400,2018,72784,Gasoline,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,110000
+219,Jeep,Wrangler Unlimited Rubicon,2018,64517,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Gray,Black,None reported,Yes,27000
+220,Ford,F-150 XLT,2021,26315,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Agate Black Metallic,Black,None reported,Yes,2954083
+221,Hyundai,Genesis Coupe 3.8 Track,2013,165000,Gasoline,120.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,A/T,Beige,Beige,None reported,Yes,9000
+222,Mercedes-Benz,SL-Class SL500 Roadster,2011,134000,Gasoline,302.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,Black,Gray,None reported,Yes,5500
+223,Cadillac,Escalade ESV Platinum,2021,3053,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Black,Black,None reported,Yes,74900
+224,Chevrolet,Silverado 2500 LT H/D Extended Cab,2007,134602,Gasoline,275.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gray,Gray,None reported,Yes,8300
+225,Mercedes-Benz,AMG C 63 S,2019,64500,Gasoline,503.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,White,Beige,None reported,Yes,43000
+226,Lincoln,MKZ Base,2013,68425,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,None reported,Yes,10999
+227,Land,Rover Range Rover Sport Supercharged,2015,7600,Gasoline,510.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Gray,Black,None reported,Yes,52000
+228,Kia,Telluride SX,2020,26870,Gasoline,3.8L V6 24V GDI DOHC,8-Speed Automatic,Glacial White Pearl,Black,None reported,,37698
+229,BMW,M3 Base,2011,106000,Gasoline,414.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,None reported,Yes,17800
+230,Mercedes-Benz,AMG C AMG C 63 S,2021,1966,Gasoline,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,Black,Black,None reported,Yes,40999
+231,Porsche,911 Turbo S,2018,26520,Gasoline,3.8L H6 24V GDI DOHC Twin Turbo,7-Speed Automatic with Auto-Shift,Black,Black,None reported,,62890
+232,Jeep,Wrangler Unlimited Sport,2017,84786,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Gray,Black,None reported,Yes,32750
+233,Nissan,NV Passenger NV3500 HD SL V8,2022,14353,Gasoline,375.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,A/T,Black,Gray,None reported,Yes,46599
+234,Ford,Explorer Platinum,2022,20500,Gasoline,400.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,10-Speed Automatic,Majestic Plum Metallic,Light Platinum / Jet Black,None reported,Yes,56000
+235,Mercedes-Benz,C-Class C 300 4MATIC,2017,90189,Gasoline,241.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gray,Black,At least 1 accident or damage reported,Yes,16000
+236,BMW,335 i xDrive,2013,105000,Gasoline,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Beige,None reported,Yes,15550
+237,Mercedes-Benz,GLE 350 GLE 350,2022,18655,Gasoline,2.0 Liter Turbo,Automatic,designo Diamond White Metallic,Macchiato/Magmagrey,None reported,,39998
+238,Subaru,WRX Base,2013,72922,Gasoline,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,None reported,Yes,17800
+239,Land,Rover Range Rover 3.0L V6 Supercharged HSE,2019,53452,Gasoline,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,37050
+240,Tesla,Model Y Performance,2020,46897,,455.0HP Electric Motor Electric Fuel System,1-Speed A/T,Gray,White,None reported,Yes,29000
+241,Porsche,Cayenne Turbo,2014,69600,Gasoline,520.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Silver,Black,At least 1 accident or damage reported,Yes,14490
+242,Toyota,Tundra Limited,2019,69423,Gasoline,381.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Gray,None reported,Yes,34900
+243,Ford,F-150 Raptor,2021,28260,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Oxford White,Black,None reported,,62500
+244,Ford,F-150 XLT,2020,53500,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,69000
+245,Lexus,RC 350 Base,2016,75151,Gasoline,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Blue,Black,None reported,Yes,27899
+246,Lexus,GX 460 Base,2015,26100,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,White,Black,None reported,Yes,29900
+247,Chevrolet,Camaro 2SS,2022,19200,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,None reported,Yes,57000
+248,Audi,S3 2.0T Tech Premium Plus,2012,102000,Gasoline,292.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,7-Speed A/T,White,Beige,None reported,Yes,15000
+249,Mercedes-Benz,AMG C 43 Base 4MATIC,2018,15889,Gasoline,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,Black,White,At least 1 accident or damage reported,Yes,29950
+250,Cadillac,Escalade EXT Base,2007,158000,E85 Flex Fuel,403.0HP 6.2L 8 Cylinder Engine Flex Fuel Capability,6-Speed A/T,Beige,Beige,None reported,Yes,23500
+251,Ferrari,911 GT2 RS,2022,19250,Gasoline,710.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Orange,Red,None reported,Yes,124900
+252,Maserati,GranTurismo Sport,2017,80300,Gasoline,454.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Gray,Black,None reported,Yes,22000
+253,Chevrolet,Silverado 1500 RST,2017,68200,Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,White,Gray,None reported,Yes,35500
+254,Cadillac,CTS Luxury,2012,106000,Gasoline,270.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,Gold,Beige,None reported,Yes,11000
+255,Lexus,RX 350 F Sport,2020,27000,Gasoline,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,34700
+256,BMW,840 Gran Coupe i xDrive,2020,29336,Gasoline,3.0 Liter Turbo,Automatic,Black Sapphire Metallic,Black,At least 1 accident or damage reported,,50658
+257,BMW,M4 Base,2019,26500,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Black,None reported,Yes,55000
+258,BMW,M4 Base,2011,118500,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Orange,None reported,Yes,12000
+259,Land,Rover Range Rover P530 SE LWB 7 Seat,2023,5040,Gasoline,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,A/T,Black,Beige,None reported,Yes,40000
+260,Land,Rover Range Rover Sport Supercharged HSE,2016,7800,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,43000
+261,Mercedes-Benz,S-Class S 580 4MATIC,2022,3880,Hybrid,496.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,57999
+262,Pontiac,Solstice GXP,2007,133409,Gasoline,260.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,6700
+263,Chevrolet,Suburban High Country,2019,102200,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Red,Black,At least 1 accident or damage reported,Yes,48000
+264,Honda,Element EX,2008,158564,Gasoline,166.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,Gray,Black,At least 1 accident or damage reported,Yes,9500
+265,Jeep,Wrangler Sport,2002,141525,Gasoline,190.0HP 4.0L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,Blue,Black,None reported,Yes,15500
+266,Audi,A6 3.0T Premium Plus,2016,87600,Gasoline,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,22000
+267,Aston,Martin Vantage GT Base,2017,127600,Gasoline,430.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,315000
+268,Buick,Enclave Premium,2017,119550,Gasoline,288.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gold,Gold,None reported,Yes,29800
+269,Lexus,ES 300h Base,2021,33000,Hybrid,200.0HP 2.5L 4 Cylinder Engine Gas/Electric Hybrid,CVT Transmission,Gold,Beige,None reported,Yes,48500
+270,Acura,TL Type S,2005,123500,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Beige,Beige,None reported,Yes,12800
+271,Audi,Q5 S line Premium Plus,2022,10071,Hybrid,2.0 Liter TFSI,Automatic,Mythos Black,Black,None reported,,44798
+272,Jeep,Grand Cherokee L Laredo,2020,49810,Gasoline,3.6L V6 24V GDI DOHC,8-Speed Automatic,Granite Crystal Clearcoat Metallic,Black,None reported,,47500
+273,Ford,Explorer XLT,2016,164500,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,None reported,Yes,16500
+274,Cadillac,CTS-V Base,2009,64000,Gasoline,640.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,White,Black,None reported,Yes,35900
+275,Dodge,Ram 1500 ST,2011,121250,Gasoline,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,Gray,At least 1 accident or damage reported,Yes,6000
+276,BMW,328 i xDrive,2005,90000,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,Silver,Black,None reported,Yes,12000
+277,Ford,Edge Titanium,2016,73549,Gasoline,2.0L I4 16V GDI DOHC Turbo,6-Speed Automatic,White Diamond Tri-Coat,Ebony,At least 1 accident or damage reported,Yes,26485
+278,Porsche,Panamera 4S,2010,66000,Gasoline,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Gray,Black,None reported,Yes,37500
+279,Subaru,Impreza WRX Sti,2004,36700,Gasoline,300.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,5-Speed A/T,Silver,Black,None reported,Yes,24500
+280,Jeep,Grand Cherokee Limited,2022,1300,Gasoline,293.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Blue,Gray,None reported,Yes,27890
+281,Toyota,Camry Hybrid Base,2011,114323,Hybrid,147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,Black,Gray,At least 1 accident or damage reported,Yes,10000
+282,Acura,TLX,2020,3389,Gasoline,3.5 Liter,Automatic,Platinum White Pearl,Black,None reported,,40798
+283,Tesla,Model Y Performance,2023,7578,,Electric,Automatic,White,Black,None reported,,267950
+284,Subaru,Outback Limited XT,2020,39948,Gasoline,2.5L H4 16V MPFI DOHC,Automatic CVT,Magnetite Gray Metallic,Black,At least 1 accident or damage reported,,24590
+285,Lincoln,Navigator Reserve,2018,67073,Gasoline,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Beige,None reported,Yes,38000
+286,Land,Rover Range Rover Sport HSE,2020,40237,Gasoline,4.4L V8 32V GDI DOHC Twin Turbo,Automatic,Carpathian Grey Premium Metallic,Cloud,None reported,,31599
+287,Ford,Explorer XLT,2013,98000,E85 Flex Fuel,290.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,White,Black,At least 1 accident or damage reported,Yes,15995
+288,Lexus,GX 470 Base,2008,151544,Gasoline,263.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,White,Gray,At least 1 accident or damage reported,Yes,12468
+289,Mercedes-Benz,GLE 350 GLE 350,2021,2284,Hybrid,2.0 Liter,Automatic,designo Diamond White Bright,Black,None reported,,47598
+290,Lexus,ES 350 Base,2017,70000,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Silver,Beige,None reported,Yes,22500
+291,Genesis,GV70 3.5T Sport,2022,3534,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,6-Speed Automatic,Phantom Black Pearl Effect / Black Roof,Beige,None reported,Yes,38698
+292,Lamborghini,Gallardo LP550-2,2013,7000,Gasoline,550.0HP 5.2L 10 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gray,Black,None reported,Yes,140000
+293,Subaru,Forester 2.5i Limited,2014,120000,Gasoline,170.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,A/T,White,Beige,None reported,Yes,20000
+294,Mercedes-Benz,AMG G 63 Base,2020,28755,Gasoline,577.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Black,None reported,Yes,96850
+295,Ford,F-150 XLT,2019,29500,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,33000
+296,Mercedes-Benz,S-Class S 550 4MATIC,2020,44300,Gasoline,449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Beige,None reported,Yes,489000
+297,Subaru,WRX Limited,2019,62662,Gasoline,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,White,White,At least 1 accident or damage reported,Yes,26999
+298,Land,Rover Defender S,2018,76000,Gasoline,296.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,White,Black,None reported,Yes,21800
+299,Kia,Telluride SX,2023,2950,Gasoline,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Red,Black,None reported,Yes,54500
+300,Lexus,RC F Base,2015,51400,Gasoline,467.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Blue,Black,At least 1 accident or damage reported,Yes,49900
+301,BMW,128 i,2013,73000,Gasoline,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed A/T,White,Beige,At least 1 accident or damage reported,Yes,16000
+302,Ford,Transit Connect XL,2017,66770,E85 Flex Fuel,169.0HP 2.5L 4 Cylinder Engine Flex Fuel Capability,A/T,White,Black,None reported,Yes,20000
+303,INFINITI,Q50 Hybrid Sport,2021,67000,Hybrid,354.0HP 3.5L V6 Cylinder Engine Gas/Electric Hybrid,7-Speed A/T,Black,Black,None reported,Yes,31450
+304,Dodge,Grand Caravan SE,2018,44000,E85 Flex Fuel,283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,White,Black,None reported,Yes,30999
+305,Mercedes-Benz,CLS-Class CLS 550,2007,149000,Gasoline,382.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Black,None reported,Yes,3850
+306,Toyota,Tacoma PreRunner,2008,100000,Gasoline,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,Gray,At least 1 accident or damage reported,Yes,6000
+307,Chevrolet,Camaro 2SS,2018,76200,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,19980
+308,Toyota,Avalon XLE,2015,90000,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Silver,Gray,At least 1 accident or damage reported,Yes,7500
+309,Ford,Transit-350 Base,2019,53000,Gasoline,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,White,Gray,At least 1 accident or damage reported,Yes,42900
+310,BMW,M8 Base,2023,4348,Gasoline,4.4L V8 32V GDI DOHC Twin Turbo,8-Speed Automatic,Black,Black,None reported,,87500
+311,Land,Rover Range Rover Velar P380 S,2019,66000,Gasoline,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,White,Black,None reported,Yes,51500
+312,Nissan,Armada SL,2018,56678,Gasoline,5.6 Liter,Automatic,White,Black,None reported,,32769
+313,Mercedes-Benz,AMG E 63 S 4MATIC,2017,9500,Gasoline,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Brown,At least 1 accident or damage reported,Yes,30000
+314,Chrysler,Town & Country Touring-L,2012,130000,E85 Flex Fuel,283.0HP 3.6L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,Blue,Gray,At least 1 accident or damage reported,Yes,7500
+315,Audi,A6 3.0T Prestige,2013,79000,Gasoline,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Blue,Brown,At least 1 accident or damage reported,Yes,175000
+316,Chevrolet,Corvette Stingray w/2LT,2023,14206,Gasoline,490.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Silver,Black,At least 1 accident or damage reported,Yes,32500
+317,Lexus,GX 460 Base,2020,48210,Gasoline,4.6L V8 32V MPFI DOHC,6-Speed Automatic,Nebula Gray Pearl,Rioja Red,At least 1 accident or damage reported,Yes,25215
+318,Lexus,ES 350 Base,2016,67726,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,White,Black,None reported,Yes,17200
+319,Lexus,LS 460 L,2013,110450,Gasoline,386.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Silver,Beige,None reported,Yes,58900
+320,Chevrolet,Equinox LT,2012,96653,Gasoline,264.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,At least 1 accident or damage reported,Yes,8500
+321,Lexus,GX 460 Premium,2022,82000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,White,Black,At least 1 accident or damage reported,Yes,30919
+322,Cadillac,SRX Luxury Collection,2010,152000,Gasoline,292.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Red,Beige,None reported,Yes,42950
+323,Ford,F-150 Raptor,2021,51300,Gasoline,450.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,62450
+324,Land,Rover LR4 HSE,2013,63250,Gasoline,375.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Silver,Gray,At least 1 accident or damage reported,Yes,25500
+325,Lexus,IS 250 Base,2008,121886,Gasoline,204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,–,At least 1 accident or damage reported,Yes,38490
+326,Ford,Mustang GT Premium,2015,110000,Gasoline,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,White,Beige,At least 1 accident or damage reported,Yes,16000
+327,Land,Rover Range Rover Evoque Pure,2015,80124,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,Blue,Beige,None reported,Yes,22989
+328,Mercedes-Benz,AMG GLS 63 4MATIC,2022,2000,Hybrid,603.0HP 4.0L 8 Cylinder Engine Gasoline/Mild Electric Hybrid,9-Speed A/T,Black,Black,None reported,Yes,93999
+329,Land,Rover Range Rover Evoque HSE Dynamic,2017,79000,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,9-Speed A/T,Red,Red,None reported,Yes,38000
+330,Jaguar,F-TYPE R,2018,7941,Gasoline,4.0L V8 32V MPFI DOHC Twin Turbo,9-Speed Automatic,Black Raven,Black,None reported,,33172
+331,Kia,Forte GT-Line,2021,77690,Gasoline,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,White,Black,None reported,Yes,13600
+332,Nissan,350Z Enthusiast,2008,10001,Gasoline,306.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Purple,–,At least 1 accident or damage reported,Yes,10999
+333,Mercedes-Benz,SLK-Class SLK320,2001,170000,Gasoline,215.0HP 3.2L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,Black,Beige,,,6000
+334,Ford,F-150 Lariat,2018,94634,Gasoline,375.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,53000
+335,Mazda,Mazda6 Touring,2020,22227,Gasoline,2.5L I4 16V GDI DOHC,6-Speed Automatic,Deep Crystal Blue Mica,Black,None reported,,26299
+336,Ford,Mustang GT Premium,2014,110000,Gasoline,412.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,At least 1 accident or damage reported,Yes,17000
+337,Chrysler,300C Base,2001,85000,Gasoline,150.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,Black,Black,None reported,Yes,8995
+338,BMW,M3 CS,2018,98000,Gasoline,453.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,At least 1 accident or damage reported,Yes,99000
+339,Honda,Civic EX,2004,190640,Gasoline,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,A/T,Silver,Silver,At least 1 accident or damage reported,Yes,5995
+340,Mercedes-Benz,E-Class E 550,2019,16000,Gasoline,402.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Purple,Black,None reported,Yes,48000
+341,RAM,1500 Laramie,2019,5779,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,Flame Red Clearcoat,Black,None reported,,30427
+342,Porsche,911 Turbo,2008,132252,Gasoline,480.0HP 3.6L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,None reported,Yes,22995
+343,Jeep,Grand Cherokee Limited,2021,15895,Hybrid,3.6L V6 24V MPFI DOHC Hybrid,Automatic,Metallic,Global Black,None reported,Yes,44791
+344,Dodge,Challenger SRT Hellcat,2018,29475,Gasoline,707.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Green,Green,None reported,Yes,69900
+345,Hummer,H3 Base,2008,184000,Gasoline,242.0HP 3.7L 5 Cylinder Engine Gasoline Fuel,4-Speed A/T,Beige,Beige,At least 1 accident or damage reported,Yes,9995
+346,BMW,328 i xDrive,2015,87000,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,17900
+347,Jeep,Liberty Sport,2009,134000,Gasoline,210.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Brown,None reported,Yes,5500
+348,Volkswagen,Eurovan MV,2001,121800,Gasoline,140.0HP 2.8L V6 Cylinder Engine Gasoline Fuel,A/T,Green,Black,None reported,Yes,2300
+349,Land,Rover Defender 110 SE,2022,16500,Hybrid,395.0HP 3.0L Straight 6 Cylinder Engine Gasoline/Mild Electric Hybrid,8-Speed A/T,Green,Black,None reported,Yes,146000
+350,Mercedes-Benz,GLS 550 Base 4MATIC,2018,67482,Gasoline,449.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,White,Beige,None reported,Yes,349950
+351,BMW,750 i xDrive,2021,27000,Gasoline,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,61000
+352,Ford,F-150 XLT,2021,2823,Gasoline,3.5L V6 24V PDI DOHC Twin Turbo,10-Speed Automatic,Black,Medium Stone,None reported,,73500
+353,RAM,2500 Longhorn,2014,83424,Diesel,350.0HP 6.7L Straight 6 Cylinder Engine Diesel Fuel,6-Speed A/T,Silver,Gray,None reported,Yes,26000
+354,Mercedes-Benz,AMG G 63 Base,2020,39800,Gasoline,563.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,White,Black,None reported,Yes,166900
+355,Audi,A7 3.0T Prestige,2016,143250,Hybrid,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,White,Brown,At least 1 accident or damage reported,Yes,31000
+356,Honda,Accord EX-L 2.0T,2020,28663,Gasoline,2.0L I4 16V GDI SOHC Turbo,9-Speed Automatic,Lunar Blue Metallic,Black,None reported,,39777
+357,Toyota,Grand Cherokee L Laredo,2022,14676,Gasoline,3.6L V6 24V MPFI DOHC,Automatic,Bright White Clearcoat,Black,None reported,Yes,53722
+358,Ford,F-250 XLT,2021,12900,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,Gray,Gray,None reported,Yes,69000
+359,Cadillac,XT5 Base,2016,99982,Gasoline,310.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,At least 1 accident or damage reported,Yes,24500
+360,Ford,Bronco Sport Big Bend,2021,31681,Gasoline,1.5L I3 12V PDI DOHC Turbo,8-Speed Automatic,Rapid Red Metallic Tinted Clearcoat,Navy Pier,None reported,,33490
+361,RAM,2500 SLT,2016,69600,Gasoline,410.0HP 6.4L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Blue,Gray,,,35900
+362,Ford,F-150 XLT,2019,36000,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Blue,Black,None reported,Yes,36500
+363,Land,Rover Range Rover Velar R-Dynamic SE,2019,75897,Gasoline,5.0L V8 32V GDI DOHC Supercharged,Automatic,Black,Black,None reported,,38598
+364,Alfa,Romeo Giulia Base,2022,9880,Gasoline,2.0L I4 16V GDI SOHC Turbo,8-Speed Automatic,Caviar,Black,None reported,,29430
+365,Dodge,Ram 1500 SRT-10 Quad Cab,2008,153692,Gasoline,500.0HP 8.3L 10 Cylinder Engine Gasoline Fuel,4-Speed A/T,Silver,Black,None reported,Yes,10500
+366,Lexus,RX 350 F Sport Performance,2016,84421,Gasoline,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Silver,Black,None reported,Yes,24500
+367,Land,Rover Range Rover 5.0L Supercharged Autobiography LWB,2016,56000,Gasoline,518.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Blue,Blue,None reported,Yes,34900
+368,Cadillac,Escalade ESV Platinum,2022,2620,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,A/T,Gray,Black,None reported,Yes,63500
+369,Mercedes-Benz,GLS 450 Base 4MATIC,2019,28800,Gasoline,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,Silver,Black,None reported,Yes,59500
+370,Ford,E350 Super Duty XLT,2010,26021,E85 Flex Fuel,255.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,Silver,Gray,At least 1 accident or damage reported,Yes,6800
+371,Audi,Q7 3.0T Premium Plus,2014,80800,Gasoline,200.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,Blue,Beige,None reported,Yes,12980
+372,Toyota,Camry Hybrid Base,2011,116500,Hybrid,147.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,White,Black,At least 1 accident or damage reported,Yes,13715
+373,Audi,A6 3.0T Prestige,2018,38000,Gasoline,310.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Beige,At least 1 accident or damage reported,Yes,31000
+374,Mercedes-Benz,SL-Class SL 550,2015,60000,Gasoline,429.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,White,Beige,None reported,Yes,26000
+375,Jeep,Wrangler Sahara Altitude,2017,12500,Hybrid,285.0HP 3.6L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,A/T,Gray,Silver,None reported,Yes,79999
+376,Mercedes-Benz,GLC 300 GLC 300,2022,16184,Gasoline,2.0 Liter Turbo,Automatic,Black,–,None reported,,37698
+377,Land,Rover Range Rover 3.0L Supercharged,2021,2492,Gasoline,5.0 Liter,Automatic,Lunar Blue Metallic,–,None reported,,39998
+378,Mercedes-Benz,S-Class S 63 AMG,2012,40000,Gasoline,536.0HP 5.5L 8 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,21500
+379,Tesla,Model X 75D,2023,5338,,518.0HP Electric Motor Electric Fuel System,A/T,Gray,White,None reported,Yes,97500
+380,BMW,M5 Base,2015,35000,Gasoline,560.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Green,White,None reported,Yes,145000
+381,BMW,328 i xDrive,2013,106000,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Silver,Black,At least 1 accident or damage reported,Yes,6399
+382,Chevrolet,Silverado 1500 RST,2022,36544,Gasoline,5.3L V8 16V GDI OHV,10-Speed Automatic,Dark Ash Metallic,Dark Ash,None reported,Yes,68420
+383,Mercedes-Benz,Sprinter High Roof,2015,41500,Diesel,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,A/T,Silver,Black,None reported,Yes,62000
+384,Mercedes-Benz,G-Class G 550 4MATIC,2022,6758,Gasoline,416.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,A/T,White,Black,None reported,Yes,77430
+385,Porsche,Cayenne Base,2018,44000,Gasoline,300.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Gray,None reported,Yes,57000
+386,Mazda,MX-5 Miata Base,2008,72348,Gasoline,140.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Blue,None reported,Yes,17200
+387,Ford,F-150 Lariat,2010,107000,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,None reported,Yes,15000
+388,Ford,Mustang GT Premium,2016,34988,Gasoline,435.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,Orange,Black,None reported,Yes,30000
+389,BMW,Equus Signature,2013,82000,Gasoline,429.0HP 5.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Red,Beige,None reported,Yes,17900
+390,Toyota,Sequoia Limited,2013,143600,Gasoline,362.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Silver,Black,At least 1 accident or damage reported,Yes,17500
+391,Tesla,Model X Base,2023,197,,557.0HP Electric Motor Electric Fuel System,1-Speed A/T,Gray,Black,None reported,,197750
+392,Mercedes-Benz,AMG G 63 Base,2020,22185,Gasoline,4.0L V8 32V GDI DOHC Twin Turbo,9-Speed Automatic,Black,Black,None reported,Yes,24899
+393,Jeep,Wagoneer Series III,2022,16184,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,Velvet Red Pearlcoat,Black,None reported,Yes,85989
+394,Mercedes-Benz,E-Class E 350,2007,184000,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Gold,Black,At least 1 accident or damage reported,Yes,3600
+395,Ford,F-150 XLT,2018,52500,Gasoline,325.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,34000
+396,BMW,750 i xDrive,2019,19813,Gasoline,523.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Silver,–,None reported,Yes,57850
+397,MINI,Cooper S Base,2008,86000,Gasoline,172.0HP 1.6L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,Gold,Beige,At least 1 accident or damage reported,Yes,16500
+398,BMW,M4 Base,2016,27123,Gasoline,425.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Red,Beige,None reported,Yes,20950
+399,BMW,M4 Competition xDrive,2020,1120,Gasoline,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Gray,Orange,None reported,Yes,44900
+400,Chevrolet,Avalanche 1500 LS,2004,152000,Gasoline,295.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,White,Gray,At least 1 accident or damage reported,Yes,9999
+401,INFINITI,Q60 3.0T Premium,2017,71097,Gasoline,300.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Black,None reported,Yes,29950
+402,Nissan,Altima 2.5 SL,2013,116000,Gasoline,170.0HP 2.5L 5 Cylinder Engine Gasoline Fuel,A/T,Silver,Black,At least 1 accident or damage reported,Yes,11999
+403,INFINITI,QX80 Luxe,2022,69000,Gasoline,400.0HP 5.6L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Black,None reported,Yes,39777
+404,Audi,A4 2.0T Premium,2012,105000,Gasoline,211.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,Black,None reported,Yes,8500
+405,Ford,Explorer Eddie Bauer,2021,12500,E85 Flex Fuel,310.0HP 5.4L 8 Cylinder Engine Flex Fuel Capability,A/T,Silver,Black,At least 1 accident or damage reported,Yes,55000
+406,Mazda,MX-5 Miata Base,2001,125800,Gasoline,142.0HP 1.8L 4 Cylinder Engine Gasoline Fuel,5-Speed M/T,Silver,Black,None reported,Yes,8000
+407,BMW,740 i,2013,59300,Gasoline,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Red,None reported,Yes,32500
+408,Hyundai,Sonata Hybrid Limited,2016,110000,Hybrid,199.0HP 2.4L 4 Cylinder Engine Gas/Electric Hybrid,A/T,Black,Gray,At least 1 accident or damage reported,Yes,16000
+409,BMW,328 i,2011,126700,Gasoline,230.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,White,Beige,None reported,Yes,16000
+410,Jeep,Gladiator Overland,2023,4500,Gasoline,285.0HP 3.6L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,White,Beige,None reported,Yes,62999
+411,Ford,F-250 XLT,2022,40110,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,Gray,Black,At least 1 accident or damage reported,Yes,47995
+412,Hyundai,Sonata GLS,2012,136991,Gasoline,201.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,2-Speed A/T,White,Black,None reported,Yes,12500
+413,Porsche,911 Carrera,2015,56578,Gasoline,350.0HP 3.4L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Silver,Black,None reported,Yes,29000
+414,Nissan,Frontier SV,2013,63300,Gasoline,261.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,White,Gray,At least 1 accident or damage reported,Yes,33000
+415,Kia,Sorento SX Prestige,2023,31654,Gasoline,2.5L I4 16V GDI DOHC,Automatic,Glacial White Pearl,Black,None reported,,48889
+416,Ford,Bronco Outer Banks Advanced,2021,44000,Gasoline,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Black,Black,None reported,Yes,22000
+417,Porsche,911 Turbo S,2023,16701,Gasoline,4.0L H6 24V GDI DOHC,6-Speed Manual,White,Black,None reported,Yes,275000
+418,Chevrolet,Bolt EV LT,2016,89000,,200.0HP Electric Motor Electric Fuel System,A/T,Red,Black,None reported,Yes,14500
+419,Jeep,Grand Cherokee L Limited,2022,12875,Gasoline,3.6L V6 24V MPFI DOHC,8-Speed Automatic,Silver Zynith,Global Black,,,39860
+420,RAM,1500 Limited,2017,19000,Gasoline,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,White,Black,None reported,Yes,25000
+421,Mercedes-Benz,AMG E 63 S 4MATIC,2020,28200,Gasoline,603.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,9-Speed A/T,Black,Black,None reported,Yes,92500
+422,Ford,F-350 Lariat,2019,3763,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,Green,Black,At least 1 accident or damage reported,Yes,47999
+423,Lincoln,MKC Base,2015,87500,Gasoline,240.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,None reported,Yes,17900
+424,Lexus,GX 470 Base,2007,215000,Gasoline,263.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,Black,Gray,At least 1 accident or damage reported,Yes,10499
+425,Audi,A6 55 Premium,2019,34580,Hybrid,335.0HP 3.0L V6 Cylinder Engine Gasoline/Mild Electric Hybrid,7-Speed A/T,Black,Beige,None reported,Yes,37000
+426,RAM,1500 Laramie,2021,33704,Gasoline,5.7L V8 16V MPFI OHV,8-Speed Automatic,Super Black,Black,None reported,,88950
+427,BMW,650 Gran Coupe i xDrive,2015,43500,Gasoline,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,43550
+428,Mercedes-Benz,E-Class E 350,2012,95428,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,White,Black,None reported,Yes,10000
+429,Chevrolet,Suburban LT,2018,92000,Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gray,Black,At least 1 accident or damage reported,Yes,22999
+430,Porsche,Bronco Wildtrak Advanced,2022,10900,Gasoline,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,65700
+431,Ford,F-150 XLT,2017,64517,E85 Flex Fuel,282.0HP 3.5L V6 Cylinder Engine Flex Fuel Capability,6-Speed A/T,Gray,Gray,None reported,Yes,34000
+432,Jaguar,XF 25t Prestige,2018,50340,Gasoline,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,Gray,White,None reported,Yes,29000
+433,Ferrari,F12berlinetta Base,2017,25520,Gasoline,6.3L V12 48V GDI DOHC,7-Speed Automatic with Auto-Shift,Gray,BLACK,None reported,,449995
+434,Ford,F-150 Platinum,2020,45617,Gasoline,400.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,40100
+435,Lexus,IS 250C Base,2007,133500,Gasoline,204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel,A/T,White,Beige,None reported,Yes,9000
+436,Chevrolet,Camaro Z28,2019,73350,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,46750
+437,Mazda,CX-30 Select,2021,39102,Gasoline,2.5L I4 16V GDI DOHC,6-Speed Automatic,Black,Black,At least 1 accident or damage reported,Yes,36570
+438,Toyota,Tundra SR5 Access Cab,2010,209500,Gasoline,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,5-Speed A/T,Gray,Gray,None reported,Yes,16000
+439,Toyota,Land Cruiser Base,2003,121800,Gasoline,230.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,Silver,Beige,At least 1 accident or damage reported,Yes,5800
+440,Mercedes-Benz,AMG GLE 43 Coupe 4MATIC,2018,71200,Gasoline,385.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,Blue,Brown,None reported,Yes,24900
+441,BMW,335 is,2012,47000,Gasoline,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,None reported,Yes,130000
+442,Jeep,Compass Sport,2008,106700,Gasoline,182.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,Gray,Gray,None reported,Yes,7500
+443,Subaru,Impreza WRX,2010,67500,Gasoline,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,Gray,Black,At least 1 accident or damage reported,Yes,55000
+444,Jaguar,XF Premium,2018,41000,Gasoline,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Silver,Black,None reported,Yes,24500
+445,GMC,Sierra 1500 SLT,2021,76100,Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,White,Black,None reported,Yes,31700
+446,Ford,F-250 XLT,2022,48641,Diesel,6.7L I6 24V DDI OHV Turbo Diesel,Automatic,Antimatter Blue Metallic,Portland,None reported,,76740
+447,Audi,A6 3.0T Premium Plus,2018,63398,Gasoline,333.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,Silver,Black,At least 1 accident or damage reported,Yes,26499
+448,Audi,RS 7 4.0T Performance Prestige,2017,14269,Gasoline,605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Gray,Black,None reported,Yes,250000
+449,Mercedes-Benz,E-Class E 350,2004,95816,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Silver,Black,At least 1 accident or damage reported,Yes,16900
+450,Subaru,WRX Base,2015,73120,Gasoline,268.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,M/T,Black,Black,None reported,Yes,21495
+451,BMW,750 i xDrive,2019,38000,Gasoline,445.0HP 4.4L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,Orange,Orange,At least 1 accident or damage reported,Yes,49999
+452,Buick,Enclave Premium,2022,25420,Gasoline,3.6L V6 24V GDI DOHC,6-Speed Automatic,Dark Moon Blue Metallic,Ebony,None reported,Yes,28600
+453,Toyota,Tundra SR5 Double Cab,2007,122961,Gasoline,282.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,A/T,Gray,Gray,None reported,Yes,14000
+454,Chevrolet,Camaro 2SS,2023,7000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,White,Gray,None reported,Yes,50000
+455,Jaguar,F-PACE 30t R-Sport,2018,61308,Gasoline,247.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,None reported,Yes,28000
+456,Ford,F-250 XL SuperCab H/D,1997,90400,Gasoline,220.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,Red,Gray,None reported,Yes,2800
+457,Land,Rover LR2 Base,2016,112465,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Red,Beige,None reported,Yes,36500
+458,Chevrolet,Silverado 1500 2LT,2019,81000,E85 Flex Fuel,355.0HP 5.3L 8 Cylinder Engine Flex Fuel Capability,Transmission Overdrive Switch,Gray,Gray,None reported,Yes,32300
+459,Porsche,Cayman R,2016,38012,Gasoline,3.4L H6 24V MPFI DOHC,7-Speed Automatic with Auto-Shift,Firecracker Red Clearcoat,Black,None reported,,131999
+460,Mercedes-Benz,AMG G 63 4MATIC,2021,17900,Gasoline,605.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Gray,Black,None reported,Yes,91000
+461,Chevrolet,Suburban 1500 LS,1998,134033,Gasoline,355.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,4-Speed A/T,Red,Gray,At least 1 accident or damage reported,Yes,29995
+462,Mercedes-Benz,Sprinter 2500,2004,158366,Diesel,161.0HP 2.1L 4 Cylinder Engine Diesel Fuel,A/T,White,–,At least 1 accident or damage reported,Yes,2300
+463,Ford,Edge SEL,2019,32117,Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Gray,Ebony,None reported,Yes,26125
+464,Ford,F-350 Lariat,2017,51830,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,Red,Black,None reported,Yes,27500
+465,Cadillac,Escalade ESV Sport,2014,92000,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,White,Silver,None reported,Yes,70250
+466,Ford,F-150 XLT,2021,43000,Gasoline,325.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Black,Gray,None reported,Yes,46500
+467,Acura,ILX 2.4L,2016,139804,Gasoline,150.0HP 1.4L 4 Cylinder Engine Gasoline Fuel,A/T,Blue,Gray,None reported,Yes,10500
+468,Ford,F-250 Platinum,2019,9142,Diesel,450.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,Black,Black,None reported,Yes,71000
+469,BMW,X3 xDrive30i,2021,23647,Gasoline,2.0L I4 16V GDI DOHC Turbo,8-Speed Automatic,Black Sapphire Metallic,Canberra Beige,None reported,Yes,11499
+470,Porsche,911 GT3,2009,13250,Gasoline,475.0HP 3.8L Flat 6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Blue,Black,None reported,Yes,75499
+471,RAM,1500 Tradesman/Express,2015,25000,Gasoline,395.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,Gray,Black,At least 1 accident or damage reported,Yes,19990
+472,Buick,Envision Essence,2020,61720,Gasoline,2.0L I4 16V GDI DOHC Turbo,Automatic,Summit White,Ebony,None reported,Yes,29725
+473,Ford,Explorer ST,2016,71964,Gasoline,365.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,6-Speed A/T,Black,Black,None reported,Yes,28500
+474,Mercedes-Benz,Sprinter 2500 Standard Roof,2016,88900,Diesel,188.0HP 3.0L V6 Cylinder Engine Diesel Fuel,7-Speed A/T,White,Beige,None reported,Yes,39100
+475,BMW,330 i xDrive,2019,26000,Gasoline,248.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,A/T,White,Beige,None reported,Yes,37000
+476,Porsche,Macan S,2011,185520,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,White,Beige,At least 1 accident or damage reported,Yes,7999
+477,Lexus,RX 350 F Sport Performance,2018,62660,Gasoline,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Red,–,None reported,Yes,25500
+478,Toyota,Highlander SE,2019,59203,Gasoline,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,At least 1 accident or damage reported,Yes,20900
+479,Lexus,GX 460 Base,2018,63500,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,A/T,Gray,Gray,None reported,Yes,58000
+480,Jeep,Wrangler Sahara,2009,87500,Gasoline,202.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,A/T,Brown,Black,None reported,Yes,12000
+481,Audi,S4 3.0T Premium Plus,2022,8700,Gasoline,349.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Silver,Black,None reported,Yes,275000
+482,Chevrolet,Bolt EUV Premier,2022,31000,Hybrid,200.0HP Electric Motor Electric Fuel System,A/T,Silver,White,None reported,Yes,47999
+483,Ford,Bronco Big Bend Advanced,2021,12000,Gasoline,315.0HP 2.7L V6 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,41500
+484,Subaru,Impreza 2.0i Premium,2013,116500,Gasoline,152.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,CVT Transmission,Black,Black,None reported,Yes,20708
+485,Chevrolet,Camaro 2SS,2016,74000,Gasoline,455.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,6-Speed M/T,Orange,Black,At least 1 accident or damage reported,Yes,26800
+486,Porsche,Cayenne GTS,2017,47850,Gasoline,440.0HP 4.8L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,52999
+487,Porsche,911 Carrera S,2023,1800,Gasoline,443.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,Black,None reported,Yes,107900
+488,Ford,Transit-350 XLT,2019,65441,Gasoline,310.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Brown,None reported,Yes,43000
+489,Lincoln,Nautilus Reserve,2022,27654,Gasoline,2.7L V6 24V GDI DOHC Twin Turbo,8-Speed Automatic,Oxford White,Sandstone,None reported,,38900
+490,Lexus,GX 460 Premium,2017,51335,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,Gray,Beige,At least 1 accident or damage reported,Yes,25800
+491,BMW,M3 Base,2001,64500,Gasoline,333.0HP 3.2L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed M/T,Silver,Black,None reported,Yes,15000
+492,Nissan,Maxima 3.5 SR,2020,60930,Gasoline,290.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,Gold,Black,At least 1 accident or damage reported,Yes,23400
+493,BMW,X1 xDrive28i,2020,42750,Gasoline,228.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,Red,None reported,Yes,38000
+494,Land,Rover Discovery Sport SE,2019,8228,Gasoline,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,Black,None reported,Yes,78990
+495,Dodge,Sprinter 2500 High Roof,2000,135000,Diesel,154.0HP 2.7L 5 Cylinder Engine Diesel Fuel,A/T,White,–,At least 1 accident or damage reported,Yes,15000
+496,Ford,F-250 Lariat,2016,92671,Diesel,440.0HP 6.7L 8 Cylinder Engine Diesel Fuel,6-Speed A/T,Gray,Black,None reported,Yes,16500
+497,Lexus,LX 570 Three-Row,2021,28800,Gasoline,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,Red,None reported,Yes,52590
+498,BMW,M4 Competition xDrive,2022,1050,Gasoline,503.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,30000
+499,Ford,Shelby GT350R Base,2020,33000,Gasoline,526.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,M/T,White,Black,None reported,Yes,49990
+500,BMW,328 xi,2006,96680,Gasoline,225.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,12500
+501,Lexus,LX 570 Three-Row,2019,31150,Gasoline,383.0HP 5.7L 8 Cylinder Engine Gasoline Fuel,A/T,White,Brown,None reported,Yes,42500
+502,Lexus,IS 250 Base,2006,151896,Gasoline,204.0HP 2.5L V6 Cylinder Engine Gasoline Fuel,A/T,Beige,Beige,At least 1 accident or damage reported,Yes,12990
+503,Land,Rover Range Rover Sport Supercharged HSE,2021,19800,Gasoline,340.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,9-Speed A/T,White,Black,None reported,Yes,59000
+504,Land,Rover Range Rover HSE SWB,2020,36000,Gasoline,380.0HP 3.0L V6 Cylinder Engine Gasoline Fuel,A/T,Black,Black,None reported,Yes,112500
+505,Ford,F-250 Lariat,2021,28220,Diesel,475.0HP 6.7L 8 Cylinder Engine Diesel Fuel,10-Speed A/T,Gold,Black,None reported,Yes,75000
+506,Mercedes-Benz,GLK-Class GLK 350,2014,72639,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,Black,Black,None reported,Yes,10500
+507,Ford,Shelby GT500 Base,2021,10400,Gasoline,760.0HP 5.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Black,Black,None reported,Yes,47124
+508,Ford,Transit-350 XLT,2019,18000,Gasoline,275.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,A/T,White,Black,None reported,Yes,46900
+509,Porsche,911 Carrera 4S,2018,18494,Gasoline,420.0HP 3.0L Flat 6 Cylinder Engine Gasoline Fuel,7-Speed M/T,Silver,Black,None reported,Yes,94999
+510,Ford,Fusion Hybrid SE,2013,84421,Hybrid,188.0HP 2.0L 4 Cylinder Engine Gas/Electric Hybrid,A/T,Silver,Black,None reported,Yes,22000
+511,Chevrolet,Suburban 1500 LS,1999,119500,Gasoline,300.0HP 5.3L 8 Cylinder Engine Gasoline Fuel,A/T,Green,Beige,At least 1 accident or damage reported,Yes,13800
+512,Hyundai,Genesis Coupe 3.8 Base,2015,67686,Gasoline,348.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Black,At least 1 accident or damage reported,Yes,18400
+513,GMC,Acadia SLE,2020,69185,Gasoline,2.5L I4 16V GDI DOHC,8-Speed Automatic,Ebony Black,Jet Black,None reported,Yes,30825
+514,Toyota,Highlander XLE,2022,29000,Gasoline,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,CVT Transmission,White,Black,At least 1 accident or damage reported,Yes,39990
+515,Ford,Focus RS Base,2014,37060,Gasoline,350.0HP 3.7L V6 Cylinder Engine Gasoline Fuel,6-Speed M/T,Blue,Gray,At least 1 accident or damage reported,Yes,29950
+516,Mercedes-Benz,E-Class E 350 4MATIC,2013,73091,Gasoline,268.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Gray,Black,None reported,Yes,15500
+517,Nissan,Murano SL,2004,245000,Gasoline,240.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Gray,Gray,At least 1 accident or damage reported,Yes,5500
+518,BMW,X5 xDrive40i,2020,41000,Gasoline,335.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,White,At least 1 accident or damage reported,Yes,50000
+519,BMW,340 i,2019,48000,Gasoline,320.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,8-Speed A/T,Black,Beige,None reported,Yes,46000
+520,Lexus,GX 460 Base,2018,45000,Gasoline,301.0HP 4.6L 8 Cylinder Engine Gasoline Fuel,6-Speed A/T,White,Beige,None reported,Yes,50000
+521,Mercedes-Benz,AMG GT 63 S 4-Door,2020,23152,Gasoline,630.0HP 4.0L 8 Cylinder Engine Gasoline Fuel,Transmission w/Dual Shift Mode,–,Black,None reported,Yes,64600
+522,Subaru,Impreza WRX STI,2014,67250,Gasoline,305.0HP 2.5L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,Black,Black,None reported,Yes,15500
+523,Volkswagen,Golf GTI 2.0T SE 4-Door,2016,89500,Gasoline,220.0HP 2.0L 4 Cylinder Engine Gasoline Fuel,6-Speed M/T,White,Black,None reported,Yes,16999
+524,Chevrolet,Camaro 1SS,2021,73846,Gasoline,5.3L V8 16V GDI OHV,6-Speed Automatic,Black Cherry,Black,None reported,Yes,34645
+525,INFINITI,QX60 Luxe,2018,38400,Gasoline,295.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,A/T,Blue,Gray,None reported,Yes,21250
+526,BMW,535 i xDrive,2011,76500,Gasoline,300.0HP 3.0L Straight 6 Cylinder Engine Gasoline Fuel,A/T,Black,Beige,At least 1 accident or damage reported,Yes,15999
+527,GMC,Yukon XL Denali,2023,4500,Gasoline,420.0HP 6.2L 8 Cylinder Engine Gasoline Fuel,10-Speed A/T,Gray,Black,None reported,Yes,92888
+528,Mercedes-Benz,E-Class E 350 4MATIC,2009,82900,Gasoline,302.0HP 3.5L V6 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Beige,At least 1 accident or damage reported,Yes,11970
+529,Mercedes-Benz,GL-Class GL 450 4MATIC,2012,87000,Gasoline,335.0HP 4.7L 8 Cylinder Engine Gasoline Fuel,7-Speed A/T,Black,Black,None reported,Yes,22500
+530,Kia,Optima LX,2015,109580,Gasoline,200.0HP 2.4L 4 Cylinder Engine Gasoline Fuel,A/T,Silver,Black,None reported,Yes,19500
+531,Toyota,Land Cruiser Base,1997,150000,Gasoline,212.0HP 4.5L Straight 6 Cylinder Engine Gasoline Fuel,5-Speed A/T,Black,Beige,At least 1 accident or damage reported,Yes,6399
+532,Dodge,Challenger R/T Scat Pack,2021,35000,–,–,8-Speed A/T,Blue,Gray,None reported,Yes,48000
+533,Kia,Telluride SX,2017,56450,Gasoline,291.0HP 3.8L V6 Cylinder Engine Gasoline Fuel,8-Speed A/T,White,Black,At least 1 accident or damage reported,Yes,30000
+534,RAM,1500 Tradesman/Express,2022,24906,Gasoline,3.6 Liter DOHC,Automatic,Delmonico Red Pearlcoat,Black,None reported,,42998
+535,Toyota,Tacoma Double Cab,2005,242000,Gasoline,236.0HP 4.0L V6 Cylinder Engine Gasoline Fuel,5-Speed A/T,White,–,None reported,Yes,6880
